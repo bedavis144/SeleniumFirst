@@ -1,0 +1,20 @@
+c:\users\bdavis2\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.exe.config
+c:\users\bdavis2\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\chromedriver.exe
+c:\users\bdavis2\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\chromedriver-license.txt
+c:\users\bdavis2\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.exe
+c:\users\bdavis2\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.pdb
+c:\users\bdavis2\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.dll
+c:\users\bdavis2\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.xml
+c:\users\bdavis2\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.csprojResolveAssemblyReference.cache
+c:\users\bdavis2\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.exe
+c:\users\bdavis2\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.pdb
+c:\Users\bdavis2\Documents\Visual Studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\nunit.framework.dll
+c:\Users\bdavis2\Documents\Visual Studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\nunit.framework.xml
+C:\Users\bdavis2\Documents\Visual Studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.Support.dll
+C:\Users\bdavis2\Documents\Visual Studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.Support.xml
+C:\Users\bdavis2\Documents\Visual Studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\Excel.dll
+C:\Users\bdavis2\Documents\Visual Studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\bdavis2\Documents\Visual Studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\Excel.pdb
+C:\Users\bdavis2\Documents\VisualStudio2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.exe.config
+C:\Users\bdavis2\Documents\VisualStudio2015\Projects\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.exe
+C:\Users\bdavis2\Documents\VisualStudio2015\Projects\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.pdb
